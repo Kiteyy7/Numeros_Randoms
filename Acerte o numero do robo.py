@@ -9,5 +9,5 @@ if adivinha == num:
 
 
 else:
-    print(f"Voce errou o numero do robo!!! ""O Numero era{num}")
+    print(f"Voce errou o numero do robo!!! O Numero era{num}")
 
